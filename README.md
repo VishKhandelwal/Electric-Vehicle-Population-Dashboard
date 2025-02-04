@@ -23,3 +23,5 @@ Enable Macros: Open the file and enable macros for full functionality.
 Explore Dashboard: Use buttons and dropdowns to interact with data.
 Refresh Data: Click the refresh button to update charts dynamically.
 Generate Reports: Export filtered data with an automated report generation feature.
+
+
